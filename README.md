@@ -1,4 +1,68 @@
 # Homework-05
+
+## Name:
+
+Work day scheduler
+
+
+## Links:
+
+GitHub repository: 
+https://github.com/Clem-ent17/Homework-05
+
+Live link to access the application:
+https://clem-ent17.github.io/Homework-05/
+
+
+## Description:
+
+Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+
+
+
+* This week homework is a combination of multiple-choice questions and interactive coding challenges. Following this example:
+![code quiz](./Assets/04-web-apis-homework-demo.gif)
+
+* I built a timed coding quiz with multiple-choice questions. This app run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code that you write. 
+
+* The user inferface is responsive. 
+
+
+
+## Usage:
+
+No installation needed.
+
+
+## Technologies:
+
+* This application use: 
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - jQuery
+    - Moment.js
+    - GitHub
+
+
+## Project status:
+
+Completed.
+
+- - -
+
+Clement Valles
+
+
+
+
+
+
+
+# Homework-05
 Work day scheduler
 
 
