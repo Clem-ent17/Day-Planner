@@ -14,26 +14,37 @@ Live link to access the application:
 https://clem-ent17.github.io/Homework-05/
 
 
+## Request:
+* Employees with busy schedules want to add important events to a daily planner.
+
+* They need to add important events to a daily planner
+
+* They need to be able to manage their time effectively
+
+
 ## Description:
+* This app is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+* This app use the [Moment.js](https://momentjs.com/) library to work with date and time.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
-
-
-
-* This week homework is a combination of multiple-choice questions and interactive coding challenges. Following this example:
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
-
-* I built a timed coding quiz with multiple-choice questions. This app run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code that you write. 
-
-* The user inferface is responsive. 
-
+* The following animation demonstrates the application functionality:
+![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
 
 ## Usage:
 
-No installation needed.
+* When the app is launched, the app diplay the daily planner
+
+* The app display:
+    - Past time in grey
+    - Current time in red
+    - Future time in green
+
+* When user click on the text area, the user can delete or add info.
+
+* The user need to save the info after adding it, by pressing the blue button on the right.
+
+* When the info is saved, the information will stay displayed until the user erase it.
 
 
 ## Technologies:
@@ -55,111 +66,3 @@ Completed.
 - - -
 
 Clement Valles
-
-
-
-
-
-
-
-# Homework-05
-Work day scheduler
-
-
-
-
-# 05 Third-Party APIs: Work Day Scheduler
-
-## Your Task
-
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
-
-
-## User Story
-
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
-
-
-## Acceptance Criteria
-
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
-
-
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * Uses the Moment.js library to work with date and time
-
-### Deployment: 32%
-
-* Application deployed at live URL
-
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the homework instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
